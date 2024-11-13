@@ -239,7 +239,7 @@ Clínica Dental Sana Sonrisa es un sitio dedicado al cuidado y la estética dent
 - Usuario Promedio: Valeria, una profesional que desea mejorar la salud y estética de su sonrisa.
 
 **Estado Actual**  
-El sitio está en construcción. Actualmente, hemos configurado el dominio y estamos trabajando en la estructura y el diseño para asegurar una experiencia óptima.
+El sitio está en construcción. Actualmente, estoy configurando el dominio y  trabajando en la estructura y el diseño para asegurar una experiencia óptima.
 
 **Tecnologías Utilizadas**  
 - HTML5

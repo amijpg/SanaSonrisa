@@ -3,42 +3,60 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Clínica Dental Sana Sonrisa</title>
-    <meta name="description" content="Clínica Dental Sana Sonrisa: Cuidado integral para una sonrisa sana y radiante. Servicios de odontología general, ortodoncia y blanqueamiento dental.">
-    <meta name="keywords" content="Clínica Dental, Sonrisa Sana, Odontología, Ortodoncia, Blanqueamiento,brackets">
-    <meta name="author" content="Eymi Ordoñez">
-    <meta name="robots" content="index, follow">
-    <meta property="og:image" content="https://sanasonrisa.cl/images/ss.png">
-    <meta property="og:image:width" content="1200">
-    <meta property="og:image:height" content="628">
-   
-    <style>
-        
-        body {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            min-height: 100vh;
-            margin: 0;
-            font-family: Arial, sans-serif;
-            text-align: center;
-        }
+    <title>Sana Sonrisa</title>
+    
+    <!-- Primary Meta Tags -->
+    <meta name="title" content="Sana Sonrisa" />
+    <meta name="description" content="Clínica Dental Sana Sonrisa: Cuidado integral para una sonrisa sana y radiante. Servicios de odontología general, ortodoncia y blanqueamiento dental." />
+    <meta name="robots" content="index, follow" />
 
-        .container {
-            max-width: 480px;
-        }
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://amijpg.github.io/SanaSonrisa/" />
+    <meta property="og:title" content="Sana Sonrisa" />
+    <meta property="og:description" content="Clínica Dental Sana Sonrisa: Cuidado integral para una sonrisa sana y radiante. Servicios de odontología general, ortodoncia y blanqueamiento dental." />
+    <meta property="og:image" content="https://amijpg.github.io/SanaSonrisa/images/ss.png" />
 
-        iframe {
-            display: block;
-            margin: 0 auto;
-        }
-    </style>
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image" />
+    <meta property="twitter:url" content="https://amijpg.github.io/SanaSonrisa/" />
+    <meta property="twitter:title" content="Sana Sonrisa" />
+    <meta property="twitter:description" content="Clínica Dental Sana Sonrisa: Cuidado integral para una sonrisa sana y radiante. Servicios de odontología general, ortodoncia y blanqueamiento dental." />
+    <meta property="twitter:image" content="https://amijpg.github.io/SanaSonrisa/images/ss.png" />
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <div class="container">
-        <h1>En Construcción</h1>
-        <p>Bienvenidos a Clínica Dental Sana Sonrisa. Estamos trabajando para ofrecerles un sitio completo y profesional muy pronto.</p>
-        <iframe src="https://giphy.com/embed/3o7WIAXVUyRC6yPHzi" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+    <header class="header position-absolute">
+        <div class="logo">
+            <a href="index.html"><img src="images/SANASONRISA_Logo1.png" alt="Logo Clínica Sana Sonrisa"></a>
+        </div>
+        <nav>
+            <div>
+                <ul class="nav_links">
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="nosotros.html">Nosotros</a></li>
+                    <li><a href="servicios.html">Servicios</a></li>
+                    <li><a href="contacto.html">Contacto</a></li>
+                </ul>
+            </div>
+        </nav>
+    </header>
 
+    <section class="banner">
+        <div class="imagen_banner position-relative">
+            
+            <img src="images/uno.png" alt="Imagen de banner" class="img-fluid">
+            
+            <div class="texto_inicial position-absolute top-50 start-50 translate-middle text-white text-center">
+                <h1>Confianza en cada <span class="text-primary">sonrisa</span></h1>
+                <p class="lead">Tu sonrisa, nuestra prioridad. Descubre un nuevo nivel de atención dental con un equipo comprometido con tu bienestar.</p>
+                <button class="btn btn-primary">Saber más</button>
+            </div>
+        </div>
+    </section>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js" defer></script>
 </body>
 </html>

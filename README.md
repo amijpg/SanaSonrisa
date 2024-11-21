@@ -250,5 +250,36 @@ El sitio está en construcción. Actualmente, estoy configurando el dominio y  t
 **Enlace al Sitio**  
 Puedes visitar el sitio en construcción en [sanasorrisa.cl](http://sanasorrisa.cl)
 
+-------------------------
+
+## CLASE 16 (_avance_)
+
+**Diseño Inspirado**
+
+El diseño de **Sana Sonrisa** está cuidadosamente elaborado, teniendo en cuenta la importancia de transmitir confianza, profesionalismo y bienestar a través de elementos visuales modernos.
+
+**Wireframes y Paleta de Colores**
+Desde las primeras etapas del proyecto, desarrollé wireframes para conceptualizar la estructura del sitio web. Esto me permitió planificar la distribución de secciones, la navegación principal y los elementos interactivos como botones y enlaces.  
+La paleta de colores, basada en tonos azules suaves y blancos, fue elegida para reflejar los valores fundamentales de una clínica dental: confianza, limpieza y tranquilidad. Estos colores no solo mejoran la experiencia visual, sino que también son consistentes con las emociones positivas asociadas con el cuidado dental.
+
+**Logo**
+El logo de **Sana Sonrisa** fue diseñado exclusivamente para este proyecto. Incluye un ícono en forma de sonrisa con líneas suaves y amigables, que representan cuidado y profesionalismo. El logo utiliza la misma paleta de colores del sitio web para mantener una identidad visual coherente.
+
+**Inspiración Basada en Referentes**
+Para el desarrollo del diseño, analicé sitios web modernos de clínicas dentales y servicios de salud, lo que me permitió identificar patrones de diseño efectivos. Algunos de los elementos clave tomados de estos referentes incluyen:
+- Navegación clara y estructurada.
+- Uso de imágenes de alta calidad que refuercen la identidad visual.
+- Contraste adecuado para mejorar la legibilidad.
+
+Adapté estas ideas a la visión y necesidades específicas de **Sana Sonrisa**, asegurándome de que cada elemento estuviera alineado con los principios de diseño centrado en el usuario.
+
+![ss](https://github.com/user-attachments/assets/11c94873-713e-47a4-b536-7a06f065a06f)
+
+
+
+
+
+
+
 
 

@@ -254,18 +254,17 @@ Puedes visitar el sitio en construcción en [sanasorrisa.cl](http://sanasorrisa.
 
 ## CLASE 16 (_avance_)
 
-**Diseño Inspirado**
+**Diseño Inspirado:**
+El diseño de **Sana Sonrisa:** está cuidadosamente elaborado, teniendo en cuenta la importancia de transmitir confianza, profesionalismo y bienestar a través de elementos visuales modernos.
 
-El diseño de **Sana Sonrisa** está cuidadosamente elaborado, teniendo en cuenta la importancia de transmitir confianza, profesionalismo y bienestar a través de elementos visuales modernos.
-
-**Wireframes y Paleta de Colores**
+**Wireframes y Paleta de Colores:**
 Desde las primeras etapas del proyecto, desarrollé wireframes para conceptualizar la estructura del sitio web. Esto me permitió planificar la distribución de secciones, la navegación principal y los elementos interactivos como botones y enlaces.  
 La paleta de colores, basada en tonos azules suaves y blancos, fue elegida para reflejar los valores fundamentales de una clínica dental: confianza, limpieza y tranquilidad. Estos colores no solo mejoran la experiencia visual, sino que también son consistentes con las emociones positivas asociadas con el cuidado dental.
 
-**Logo**
+**Logo:**
 El logo de **Sana Sonrisa** fue diseñado exclusivamente para este proyecto. Incluye un ícono en forma de sonrisa con líneas suaves y amigables, que representan cuidado y profesionalismo. El logo utiliza la misma paleta de colores del sitio web para mantener una identidad visual coherente.
 
-**Inspiración Basada en Referentes**
+**Inspiración Basada en Referentes:**
 Para el desarrollo del diseño, analicé sitios web modernos de clínicas dentales y servicios de salud, lo que me permitió identificar patrones de diseño efectivos. Algunos de los elementos clave tomados de estos referentes incluyen:
 - Navegación clara y estructurada.
 - Uso de imágenes de alta calidad que refuercen la identidad visual.

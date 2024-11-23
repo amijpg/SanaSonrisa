@@ -1,17 +1,46 @@
-[
-    {
+{
+    "serviciosDestacados": [
+      {
         "nombre": "Odontología General",
         "descripcion": "Chequeos y limpiezas regulares para mantener una salud bucal óptima.",
-        "foto": "odontologia-general.png"
-    },
-    {
+        "foto": "odontologia.jpg"
+      },
+      {
         "nombre": "Ortodoncia",
         "descripcion": "Corrección de la alineación dental para una sonrisa funcional y estética.",
-        "foto": "ortodoncia.png"
-    },
-    {
-        "nombre": "Bqto. Dental",
+        "foto": "ortodoncia.jpg"
+      },
+      {
+        "nombre": "Blanqueamiento Dental",
         "descripcion": "Tratamientos para lograr una sonrisa más blanca y brillante.",
-        "foto": "blanqueamiento-dental.png"
-    }
-]
+        "foto": "blanqueamiento.jpg"
+      }
+    ],  
+
+    "testimonios": [
+        {
+        "nombre": "Carolina S.",
+        "imagen": "carolina.png",
+        "opinion": "Gracias a Clínica Sana Sonrisa, volví a sonreír con confianza. Su equipo es muy profesional y atento. ¡Recomendados al 100%!",
+        "estrellas": 5
+        },
+        {
+        "nombre": "Miguel T.",
+        "imagen": "miguel.png",
+        "opinion": "El Dr. López y su equipo me ayudaron a mejorar la salud de mis encías. ¡La mejor clínica dental en la que he estado!",
+        "estrellas": 4
+        },
+        {
+        "nombre": "Valentina R.",
+        "imagen": "valentina.png",
+        "opinion": "¡Gracias a Clínica Sana Sonrisa, tengo la sonrisa que siempre soñé! La atención es excelente, y me sentí en confianza desde el primer momento.",
+        "estrellas": 5
+        },
+        {
+        "nombre": "Andrés P.",
+        "imagen": "andres.png",
+        "opinion": "¡Gracias a Clínica Sana Sonrisa, tengo la sonrisa que siempre soñé! La atención es excelente, y me sentí en confianza desde el primer momento.",
+        "estrellas": 5
+        }
+  ]
+}

@@ -2,7 +2,7 @@
   "serviciosDestacados": [
     {
       "nombre": "Odontología General",
-      "foto": "odontologia.png",
+      "foto": "odontologia-general.png",
       "descripcion": "Chequeos y limpiezas regulares para mantener una salud bucal óptima."
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "nombre": "Bqto. Dental",
-      "foto": "blanqueamiento.png",
+      "foto": "blanqueamiento-dental.png",
       "descripcion": "Tratamientos para lograr una sonrisa más blanca y brillante."
     }
   ],

@@ -1,0 +1,26 @@
+[
+    {
+      "nombre": "Carolina S.",
+      "imagen": "carolina.png",
+      "opinion": "Gracias a Clínica Sana Sonrisa, volví a sonreír con confianza. Su equipo es muy profesional y atento. ¡Recomendados al 100%!",
+      "estrellas": 5
+    },
+    {
+      "nombre": "Miguel T.",
+      "imagen": "miguel.png",
+      "opinion": "El Dr. López y su equipo me ayudaron a mejorar la salud de mis encías. ¡La mejor clínica dental en la que he estado!",
+      "estrellas": 5
+    },
+    {
+      "nombre": "Valentina R.",
+      "imagen": "valentina.png",
+      "opinion": "Gracias a Clínica Sana Sonrisa, tengo la sonrisa que siempre soñé. La atención es excelente, y me sentí en confianza desde el primer momento.",
+      "estrellas": 5
+    },
+    {
+      "nombre": "Andrés P.",
+      "imagen": "andres.png",
+      "opinion": "Muy satisfecho con el resultado, ahora río y sonrio sin verguenza.",
+      "estrellas": 5
+    }
+]

@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Funnel+Display:wght@300..800&display=swap');
 
+
 :root {
     --bs-primary: #196BDE;
     --bs-blue: #196BDE;
@@ -16,6 +17,7 @@
 
 body{
     grid-column-gap: 32px;
+    font-family: var(--font-body);
 }
 
 .mx-6{
@@ -113,12 +115,8 @@ body{
     font-size: 19px;
     border-radius: 100px;
     background: var(--bs-light);
-    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
-    font-family: var(--font-body);
-    color: var(--bs-blue); 
-    padding-inline: 10%;
-    padding-top: 3%;
-    padding-bottom: 3%;
+    color: var(--bs-blue);
+    padding: 3% 10%;
     transition: background-color 0.3s ease, color 0.3s ease;
 }
 
@@ -305,12 +303,11 @@ h2{
 .footer-description {
     font-size: 0.875rem;
     line-height: 1.5;
-    width: 248px;
-    height: 41px;
-    width: 248px;
-    height: 41px;
     font-weight: 300;
+    width: 248px;
+    height: 41px;
 }
+
 
 .footer-section h5 {
     font-size: 1rem;
@@ -386,13 +383,9 @@ h2{
 
 /*MEDIICOOOOSS*/
 
-.medicos{
+.medicos {
     justify-content: space-between;
-    font-family: var(--font-body);
-    align-items: center;
-    align-content: center;
     text-align: center;
-
 }
 .medicos h4{
     color: var(--bs-cyan);
@@ -409,9 +402,7 @@ h2{
 .medicos .medico {
     position: relative;
     overflow: hidden;
-    cursor: pointer;
     transition: transform 0.3s ease, filter 0.3s ease;
-    perspective: 1000px;
 }
 
 .medicos .medico img {
@@ -440,43 +431,23 @@ h2{
     width: 100%;
     height: 40%;
     display: flex;
-    margin-top: 67%;
-    padding: 6%;
     align-items: center;
     justify-content: center;
+    margin-top: 67%;
+    padding: 6%;
     text-align: center;
     background-color:#a4cffc86 ; 
     color: #000;
-    backface-visibility: hidden;
-    transform: rotateY(180deg);
     clip-path: inset(10% 0 10% 0 round 15px);;
     transition: transform 0.5s ease-in-out,opacity 0.3s ease-in-out;;
-    opacity: 0 ; 
-    animation-duration: 2s;
-    animation-name: slidein;
-    
+    opacity: 0; 
 }
-
-@keyframes slidein {
-    from {
-      margin-left: 100%;
-      width: 300%;
-    }
-  
-    to {
-      margin-left: 0%;
-      width: 100%;
-    }
-}
-
 
 .medicos .medico.flipped img {
     transform: rotateY(180deg);
 }
 
-
 .medicos .medico.flipped .description {
-    transform: rotateY(0deg);
     opacity: 1 ;
 }
 
@@ -596,7 +567,7 @@ h2{
 }
 
 .image-container:hover .overlay {
-  opacity: 2;
+  opacity: 1;
 }
 
 

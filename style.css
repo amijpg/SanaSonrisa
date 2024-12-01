@@ -23,7 +23,7 @@ body{
     margin-right: 5%;
 }
 .navbar{
-    font-family: 'ClashDisplay-Regular';
+    font-family: var(--font-display);
     position: absolute;   
     margin-top: 1.25%;
     width: 90%;
@@ -64,7 +64,7 @@ body{
 
 .navbar .nav-link.active {
     color: var(--bs-blue);
-    font-family: 'ClashDisplay-Medium';
+    font-family: var(--font-display);
  
 }
 

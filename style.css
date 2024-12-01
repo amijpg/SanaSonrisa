@@ -1,33 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
-
-@font-face {
-    font-family: 'ClashDisplay-Regular';
-    src: url('../fonts/ClashDisplay-Regular.woff2') format('woff2'),
-         url('../fonts/ClashDisplay-Regular.woff') format('woff'),
-         url('../fonts/ClashDisplay-Regular.ttf') format('truetype');
-    font-weight: 400;
-    font-display: swap;
-    font-style: normal;
-    }
-
-@font-face {
-  font-family: 'ClashDisplay-Medium';
-  src: url('../fonts/ClashDisplay-Medium.woff2') format('woff2'),
-       url('../fonts/ClashDisplay-Medium.woff') format('woff'),
-       url('../fonts/ClashDisplay-Medium.ttf') format('truetype');
-  font-weight: 500;
-  font-display: swap;
-  font-style: normal;
-}
-@font-face {
-  font-family: 'ClashDisplay-Semibold';
-  src: url('../fonts/ClashDisplay-Semibold.woff2') format('woff2'),
-       url('../fonts/ClashDisplay-Semibold.woff') format('woff'),
-       url('../fonts/ClashDisplay-Semibold.ttf') format('truetype');
-  font-weight: 600;
-  font-display: swap;
-  font-style: normal;
-}
+@import url('https://fonts.googleapis.com/css2?family=Funnel+Display:wght@300..800&display=swap');
 
 :root {
     --bs-primary: #196BDE;
@@ -38,7 +10,7 @@
     --bs-light: #E8F3FE;
     --bs-white: #fff;
     --bs-gray-dark: #424242; 
-    --font-display: 'Clash Display', sans-serif;
+    --font-display: 'Funnel Display', sans-serif;
     --font-body: 'Work Sans', sans-serif;
 }
 
